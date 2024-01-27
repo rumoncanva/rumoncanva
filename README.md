@@ -1,6 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
-
+<img aling="right" alt="coding" width="400" src="![image](https://github.com/rumoncanva/rumoncanva/assets/104296780/f9b51409-c33f-4a05-977c-1f67f13d4741)
+">
 <div id="badges">
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rumon-seoexpertbd//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
